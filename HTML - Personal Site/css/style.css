@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+/* cores: https://colorhunt.co/palette/2f8f9d3bacb682dbd8b3e8e5 */
+body {
+    background-color: #B3E8E5;    
+}
+
+h1, h3 {
+    color: #2F8F9D;
+}
+
+hr {
+    border-style: dotted none none;            
+    border-width: 5px;
+    width: 10%;           
+    color: #2F8F9D;
+}
+
+img {
+    border-radius: 50%;
+}
